@@ -1,0 +1,7 @@
+hafnertec_server: http://192.168.178.39/
+hafnertec_user: user
+hafnertec_password: 1997
+influx_server: 127.0.0.1
+influx_port: 8086
+influx_db: hafnertec
+poll_interval: 1
